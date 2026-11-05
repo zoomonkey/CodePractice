@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CodePractice.Tests/CodePractice.Tests.csproj" />
+  <Project Path="CodePractice/CodePractice.csproj" />
+</Solution>
